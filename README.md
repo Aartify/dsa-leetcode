@@ -12,11 +12,13 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aartify/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aartify/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aartify/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
