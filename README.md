@@ -13,6 +13,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aartify/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/Aartify/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aartify/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aartify/dsa-leetcode/tree/master/0035-search-insert-position) |
+| [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
