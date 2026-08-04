@@ -8,6 +8,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aartify/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aartify/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
