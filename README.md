@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aartify/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Aartify/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aartify/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
