@@ -25,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/Aartify/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aartify/dsa-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -54,11 +55,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aartify/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aartify/dsa-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aartify/dsa-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aartify/dsa-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
