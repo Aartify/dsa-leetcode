@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -37,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/Aartify/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/Aartify/dsa-leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -69,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Aartify/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
