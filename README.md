@@ -23,6 +23,7 @@
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aartify/dsa-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aartify/dsa-leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aartify/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -47,6 +48,7 @@
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Aartify/dsa-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Aartify/dsa-leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aartify/dsa-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aartify/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -99,6 +101,7 @@
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aartify/dsa-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aartify/dsa-leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aartify/dsa-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -107,6 +110,7 @@
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aartify/dsa-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aartify/dsa-leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,15 +140,18 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aartify/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aartify/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
