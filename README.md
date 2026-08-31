@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aartify/dsa-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aartify/dsa-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
