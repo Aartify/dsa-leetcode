@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aartify/dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Aartify/dsa-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aartify/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -37,6 +38,7 @@
 | [0014-longest-common-prefix](https://github.com/Aartify/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Aartify/dsa-leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Aartify/dsa-leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aartify/dsa-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aartify/dsa-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aartify/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aartify/dsa-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aartify/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +141,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Aartify/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aartify/dsa-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -152,6 +156,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aartify/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -215,4 +220,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aartify/dsa-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Aartify/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
