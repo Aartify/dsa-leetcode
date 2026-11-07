@@ -64,6 +64,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Aartify/dsa-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Aartify/dsa-leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aartify/dsa-leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Aartify/dsa-leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aartify/dsa-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aartify/dsa-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aartify/dsa-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aartify/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/Aartify/dsa-leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
